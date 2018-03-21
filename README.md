@@ -1,2 +1,3 @@
-# docker-compose-hellonode
-docker-compose + nodejs
+# docker-compose-nodejs
+docker-compose + nodejs example.
+
